@@ -12,7 +12,7 @@
       print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
       modal: false # If 'True' is selected, modal can open in 'portfolio.html'.
       url: https://github.com/altaysimsek/klimAPP # Full URL
-      image: "klima" # path: assets/project/
+      image: "klima.png" # path: assets/project/
       date: 22.01.2020
       title: Klima
       summary: This is shows forecast
